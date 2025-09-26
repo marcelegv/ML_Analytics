@@ -1,12 +1,12 @@
-# README: Análise de Vendas com Machine Learning
+# Análise de Vendas com Machine Learning
 
-Objetivo Geral
+# Objetivo Geral
 
 O objetivo deste projeto é desenvolver e avaliar um modelo de Machine Learning de regressão para prever as vendas mensais de uma empresa de varejo e tecnologia. 
 
 O modelo foi treinado com dados de transações de 2023, atuando como um protótipo para auxiliar a gestão no planejamento estratégico, otimizando a alocação de recursos e melhorando o fluxo de caixa da empresa.
 
-Estrutura do Notebook
+# Estrutura do Notebook
 
 O notebook está organizado em seções lógicas para guiar a análise e a construção do modelo:
 
@@ -22,7 +22,7 @@ O notebook está organizado em seções lógicas para guiar a análise e a const
     
     • 6. Modelagem e Otimização: Avalia diferentes modelos de regressão, incluindo uma linha de base (DummyRegressor), e otimiza seus hiperparâmetros usando técnicas avançadas.
     
-Como Executar o Notebook
+# Como Executar o Notebook
 
 Este notebook foi construído para ser executado no Google Colab. 
 
@@ -34,7 +34,7 @@ Para reproduzir a análise, siga os passos abaixo:
     
     3. A etapa de drive.mount é opcional, mas necessária caso você precise acessar arquivos salvos em seu Google Drive.
 
-Dependências
+# Dependências
 
 As seguintes bibliotecas Python são utilizadas no projeto. 
 
@@ -48,7 +48,7 @@ Elas são instaladas automaticamente ao executar as células do notebook:
     • scikit-learn
     • scipy
 
-Insights Esperados
+# Insights Esperados
 
 Ao final da análise e modelagem, espera-se que o notebook forneça os seguintes insights:
 
@@ -58,7 +58,7 @@ Ao final da análise e modelagem, espera-se que o notebook forneça os seguintes
     
     • A identificação do modelo com o menor erro (RMSE) e maior poder de explicação (R²), garantindo uma base sólida para a previsão de vendas futuras.
 
-Conclusão
+# Conclusão
 
 O projeto demonstrou a viabilidade e o valor de aplicar técnicas de Machine Learning para a previsão de vendas. 
 
