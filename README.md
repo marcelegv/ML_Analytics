@@ -1,6 +1,7 @@
 # README: Análise de Vendas com Machine Learning
 
 Objetivo Geral
+
 O objetivo deste projeto é desenvolver e avaliar um modelo de Machine Learning de regressão para prever as vendas mensais de uma empresa de varejo e tecnologia. O modelo foi treinado com dados de transações de 2023, atuando como um protótipo para auxiliar a gestão no planejamento estratégico, otimizando a alocação de recursos e melhorando o fluxo de caixa da empresa.
 Estrutura do Notebook
 O notebook está organizado em seções lógicas para guiar a análise e a construção do modelo:
